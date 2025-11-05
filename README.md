@@ -1,5 +1,15 @@
 # LlamaFactory Community
 
+## X (Twitter)
+
+https://x.com/llamafactory_ai
+
+## Discord
+
+Invite link: https://discord.gg/rKfvV9r9FK
+
+## Wechat User Group
+
 LlamaFactory user group:
 
 <img alt="main.jpg" width="300" src="wechat/main.jpg">
